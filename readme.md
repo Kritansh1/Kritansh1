@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
+<h1 align="center">Hi 👋, I'm Kritansh Verma </h1>
 <h3 align="center">I do bad things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamutkarshyadav&label=Profile%20views&color=0e75b6&style=flat" alt="iamutkarshyadav" /> </p>
