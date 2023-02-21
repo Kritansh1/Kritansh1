@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kritansh Verma </h1>
+ <h1 align="center">Hi 👋, I'm Kritansh Verma </h1>
 <h3 align="center">I do bad things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamutkarshyadav&label=Profile%20views&color=0e75b6&style=flat" alt="iamutkarshyadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kritansh1&label=Profile%20views&color=0e75b6&style=flat" alt="Kritansh1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamutkarshyadav" alt="iamutkarshyadav" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
