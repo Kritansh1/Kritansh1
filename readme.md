@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,github,react,nextjs,nodejs,vite,sass,tailwind,mongodb,firebase,unrealengine,blender,vscode,discord,bots)](https://skillicons.dev)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritansh1&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=iamutkarshyadav)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritansh1&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=kritansh1)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritansh1)](https://github.com/anuraghazra/github-readme-stats)
 
