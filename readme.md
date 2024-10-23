@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Kritansh Verma </h1>
-<h3 align="center">I do bad things.</h3>
+<h3 align="center">I'm a front end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kritansh1&label=Profile%20views&color=0e75b6&style=flat" alt="Kritansh1" /> </p>
 
