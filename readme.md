@@ -1,6 +1,6 @@
-# Kritansh Verma's Portfolio
+# Kritansh Verma
 
-Welcome to my portfolio website, showcasing my skills, projects, and experience in web development, graphic design, and programming.
+Welcome to my github, showcasing my skills, projects, and experience in web development, graphic design, and programming.
 
 ## Table of Contents
 - [About Me](#about-me)
