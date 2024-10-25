@@ -19,9 +19,9 @@ Hello, I'm Kritansh! With a diverse skill set in web development, graphic design
 
 You can connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/kritansh-verma-0a208624b/)
-- GitHub
-- Instagram
-- Twitter
+- [GitHub](https://github.com/Kritansh1)
+- [Instagram](https://www.instagram.com/pxrpose.ndo/?__pwa=1)
+- [Twitter](https://x.com/Kritansh_Verma)
 
 ---
 
