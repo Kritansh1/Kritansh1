@@ -76,5 +76,5 @@ If you’d like to get in touch, please fill out the form on the [Contact Me](#c
 
 ---
 
-### Footer
+### 
 © Kritansh Verma | All Rights Reserved
