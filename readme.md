@@ -6,13 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamutkarshyadav" alt="iamutkarshyadav" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working as **Game Developer Intern at Epic Games**
 
-- 🌱 I’m currently learning **Frameworks for Unreal Engine 4 & Unreal Engine 5.**
-
-- 🤝 I’m looking for help with **Unreal Engine AR/VR.**
-
-- 💬 Ask me about **Game Development and which Netflix series to binge watch!!**
 
 - 📫 How to reach me **kritanshdps.123@gmail.com**
 
